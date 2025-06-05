@@ -6,11 +6,11 @@
   <img src="./assets/loop_glitch.gif" style="width: 100%; max-width: 100%; height: auto;" />
 </div>
 
+<br>
 <p align="left">
 Hi! I'm Zharlaw Calimpon. A Software Developer/Data Scientist from Cebu City, Philippines. 
 I'm a Computer Science graduate from the University of San Jose–Recoletos, known for consistently delivering high-quality projects and going above and beyond expectations.
 </p>
-
 
 ###
 
