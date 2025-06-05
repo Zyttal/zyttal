@@ -2,7 +2,9 @@
 
 ###
 
-<img src="./assets//loop_glitch.gif" style="width: 100%; max-width: 100%; height: auto;" />
+<div align="center">
+  <img src="./assets/loop_glitch.gif" style="width: 100%; max-width: 100%; height: auto;" />
+</div>
 
 <p align="left">
 Hi! I'm Zharlaw Calimpon. A Software Developer/Data Scientist from Cebu City, Philippines. 
